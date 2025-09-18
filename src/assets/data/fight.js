@@ -7,7 +7,7 @@ export const flightsData = [
     to: "DXB",
     departure: "2023-06-25T05:45:00",
     arrival: "2023-06-25T09:20:00",
-    duration: 6, // hours
+    duration: 6, 
     price: 80000,
     refundable: true,
   },
